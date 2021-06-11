@@ -26,11 +26,11 @@ I explored the differences between Private Rooms and Entire Home listings. 81.3%
 **Scientific Question:** Hypothesis testing was conducted to determine whether the cleanliness rating for Entire Homes was higher than that for Private Rooms. 
 **Null Hypothesis:** The cleanliness rating for Private Rooms is higher than the cleanliness rating for Entire Homes
 **Alpha Level:** The significance level used was α=0.05
-**Assumptions:** Reviewers were non-biased
+**Assumptions:** Reviewers were unbiased
 **Two Samples:** Entire Home listings and Privatet Room Listings
 
 ## Conclusion 
-Private Rooms are more likely to be cleaner than Entire Homes
+I did not reject my null hypothesis
 
 ## Technologies Used
 * Numpy
