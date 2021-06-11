@@ -8,8 +8,8 @@ The id, listing url, scrape id, last scraped date, property name, description, a
 ![Seattle Listings Overview](https://user-images.githubusercontent.com/79812486/121740651-407f3500-cab2-11eb-88b4-43bc570f10ed.png)
 
 Dataframe contains:
-*4213 rows (listings)
-*74 columns
+4213 rows (listings)
+74 columns
 
 ## Exploratory Data Analysis:
 I explored the differences between Private Rooms and Entire Home listings. 81.3% of the listings in Seattle are for entire homes, 17.3% for private rooms, and 1.4% are for shared rooms and hotel rooms combined. 
