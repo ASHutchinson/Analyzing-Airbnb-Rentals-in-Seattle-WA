@@ -15,7 +15,8 @@ I explored the differences between Private Rooms and Entire Home listings. 81.3%
 
 
 ![Room Types](https://user-images.githubusercontent.com/79812486/121745513-3e6ca480-cab9-11eb-8f32-f60e0fb367b4.png)
-![Number of Listings per Review Scores Ratings](https://user-images.githubusercontent.com/79812486/121745526-44628580-cab9-11eb-893c-7b4ff1b859ba.png)
+![Entire Home Listings per Review Scores Ratings](https://user-images.githubusercontent.com/79812486/121751196-8b08ad80-cac2-11eb-9343-ce4efa1ebd20.png)
+![Private Room Listings per Review Scores Ratings](https://user-images.githubusercontent.com/79812486/121751210-8fcd6180-cac2-11eb-9195-b1d62cfc5838.png)
 ![Entire Home Neighborhoods](https://user-images.githubusercontent.com/79812486/121745537-47f60c80-cab9-11eb-926a-6712525892b4.png)
 ![Private Room Neighborhoods](https://user-images.githubusercontent.com/79812486/121745543-49bfd000-cab9-11eb-843d-94c12ae6be4a.png)
 
